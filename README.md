@@ -1,2 +1,2 @@
-# Class-21-1
-d
+# collisionAlgorithm
+Algorithm to detect collision between two objects
